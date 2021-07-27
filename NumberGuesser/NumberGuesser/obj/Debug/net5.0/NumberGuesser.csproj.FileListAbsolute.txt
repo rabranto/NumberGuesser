@@ -1,0 +1,16 @@
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.exe
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.deps.json
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.json
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.dev.json
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.dll
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\ref\NumberGuesser.dll
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.pdb
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.AssemblyReference.cache
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfo.cs
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.dll
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\ref\NumberGuesser.dll
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.pdb
+C:\rabrant0\Nauka programowania\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.genruntimeconfig.cache
